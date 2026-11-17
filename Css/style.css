@@ -17,7 +17,7 @@ a {
 }
 
 .hero {
-  background-image: url("images/angel.jpg");
+  background-image: url("../images/angel.jpg");
   background-position: center;
   background-size: cover;
   width: 100%;
@@ -130,7 +130,7 @@ a {
 }
 
 .banner {
-  background-image: url("images/raptis.png");
+  background-image: url("../images/raptis.png");
   background-position: center;
   background-size: cover;
   height: 420px;
